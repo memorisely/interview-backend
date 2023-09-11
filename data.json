@@ -1,0 +1,559 @@
+[
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Responsive Breakpoints",
+    "title": "Responsive Design: Creating Breakpoint Variables for Responsive Design",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/669b3720-ff2f-4bfd-acfd-6d8298499737-IMG_1375.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 1018,
+    "publishedAt": "2023-09-11T10:00:00.000Z",
+    "introVideo": "https://vimeo.com/861605016",
+    "introLength": 33
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/chat-gpt.png",
+      "title": "ChatGPT"
+    },
+    "keyword": "Ai Synthesis",
+    "title": "Ai UX Research: Analyse And Synthesise Surveys With ChatGPT",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/8d395803-083a-4ee7-b12a-636fdb134829-chatGPt-synthesis%20%281%29.jpg",
+    "difficulty": "advanced",
+    "language": "english",
+    "length": 635,
+    "introVideo": "https://vimeo.com/861610304",
+    "introLength": 28
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Figma UI Tutorial",
+    "title": "Figma UI Tutorial: Design Wise Account Screen From Start To Finish ",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/3e4e07ef-1a0c-4b0a-a00b-ae3a2cd141b3-wise%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 5015,
+    "introVideo": "https://vimeo.com/861231053",
+    "introLength": 30,
+    "publishedAt": "2023-09-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Responsive design",
+    "title": "Responsive Design: Introduction to Responsive Design Principles",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/2c348b76-9cc4-4fb2-9b3c-343fab51433d-IMG_1182.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 482,
+    "introVideo": "https://vimeo.com/859733869",
+    "introLength": 24,
+    "publishedAt": "2023-09-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Lilibeth Bustos Linares"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Interview questions",
+    "title": "Interview: Questions To Ask During A UX/UI Interview",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/f1e0666b-7767-43ef-9b68-af15958c5ef1-DE3C05AC-2499-47B2-A906-493E7F669439.JPG",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 144,
+    "introVideo": "https://vimeo.com/859218643",
+    "introLength": 0,
+    "publishedAt": "2023-09-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "font types",
+    "title": "Typography: Introduction To Font Types in UI Design",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/dd2b9b3b-ee7b-4260-8c80-fb82aa543090-font-types%20%281%29.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 562,
+    "introVideo": "https://vimeo.com/859313073",
+    "introLength": 22,
+    "publishedAt": "2023-09-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Ai Ideation",
+    "title": "Ideation: Ideating With Ai Using Figma's Jambot Ai Widget  ",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/2866033f-2c38-4cca-ad46-c5e0226d5a44-ai-ideation%20%282%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 453,
+    "introVideo": "https://vimeo.com/857462919",
+    "introLength": 28,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Synthesis Intro",
+    "title": "Synthesis: An Introduction To Synthesis in UX Research",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/36538265-d489-4cf6-8995-546b21a1bfb9-synthesis.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 441,
+    "introVideo": "https://vimeo.com/857226709",
+    "introLength": 23,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Language Variables",
+    "title": "Variables: Change Language Modes Using String Variables in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/2f0ec31a-84bb-493a-95a1-13389b70076f-language%20%281%29.jpg",
+    "difficulty": "advanced",
+    "language": "english",
+    "length": 586,
+    "introVideo": "https://vimeo.com/856756191",
+    "introLength": 20,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Color Variables",
+    "title": "Walkthrough: Colors Variables in Memorisely Design System",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/37602253-0193-4289-b5c0-54ef22f0dd8c-variables%20%281%29.png",
+    "difficulty": "advanced",
+    "language": "english",
+    "length": 291,
+    "introVideo": "https://vimeo.com/856363140",
+    "introLength": 22,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Variable Spacing",
+    "title": "Variables: Introduction to Spacing Variables in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/fb0875e9-eda0-4d6e-bb57-ab120bc6b7da-variable_intro%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 495,
+    "introVideo": "https://vimeo.com/853711707",
+    "introLength": 22,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Map Zoom Animation",
+    "title": "Micro-interaction: Animating a Map Zoom in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/4289d357-0e0e-4fa1-ad24-5d08dc59940f-map-zoom%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 795,
+    "introVideo": "https://vimeo.com/853390923",
+    "introLength": 22,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Tooltip animation",
+    "title": "Micro-interaction: Animating Button Tooltips in Figma ",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/e6085833-536d-4225-a6b0-5a8d78b24708-tooltip_thumb%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 1120,
+    "introVideo": "https://vimeo.com/852946687",
+    "introLength": 26,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Chevrow Animation",
+    "title": "Micro-interaction: Animating a Chevrow Button in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/21ded072-9774-45da-a1e9-fcd5d02f5683-z-tester%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 512,
+    "introVideo": "https://vimeo.com/852307845",
+    "introLength": 19,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Underline Animation",
+    "title": "Micro-interaction: Animating an Underline Button in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/85ae3b63-944e-4a7c-97d1-194a5b4f8a1f-z-test-2%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 546,
+    "introVideo": "https://vimeo.com/851601799",
+    "introLength": 28,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Gradient Button",
+    "title": "Micro-interaction: Animating Gradient Buttons In Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/1f4ff2d6-5f0e-4233-8746-b2f6f9753785-gradient_button_thumb%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 470,
+    "introVideo": "https://vimeo.com/851378871",
+    "introLength": 22,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Glowing button",
+    "title": "Micro-interaction: Animating Glowing Buttons in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/4493f3c9-595d-4d22-a6af-e64e702ed50a-glow_button_thumb%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 695,
+    "introVideo": "https://vimeo.com/850976985",
+    "introLength": 29,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": " intro to components",
+    "title": "Introduction to Components in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/3abb956e-828f-48af-99c4-55c39d47ff55-intro_to_component_thumb%20%281%29.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 580,
+    "introVideo": "https://vimeo.com/850933011",
+    "introLength": 24,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Animating Blur Text",
+    "title": "Animating Blurred Launch Screen Text in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/3dafcd10-5ab6-4961-8397-6afb2e5cb073-text_blur_thumb%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 788,
+    "introVideo": "https://vimeo.com/850661969",
+    "introLength": 22,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "auto layout wrap",
+    "title": "Card Grids with Auto layout Wrap in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/7f903ae8-f804-45c2-a79f-96cd96fa1b33-auto_layout_wrap_thumb%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 911,
+    "introVideo": "https://vimeo.com/850221997",
+    "introLength": 28,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Loop Animation",
+    "title": "Create an Infinite Loop Button Animation in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/30d10b2b-32b2-4788-b864-e55575850d3f-loop_thumb%20%281%29.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 922,
+    "introVideo": "https://vimeo.com/850214229",
+    "introLength": 24,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Auto layout card",
+    "title": "Creating an Auto layout Card in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/8dbabe5e-34d0-4bd6-b17f-18392995eb63-auto_layout_card_thumb%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 1378,
+    "introVideo": "https://vimeo.com/849509313",
+    "introLength": 0,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "auto layout navbar",
+    "title": "Creating an Auto layout Mobile Navigation Bar in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/7fb5a313-b9ef-4ee1-9277-a2d428c7ede0-IMG_7567.JPG",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 803,
+    "introVideo": "https://vimeo.com/849393164",
+    "introLength": 18,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "auto layout form",
+    "title": "Creating an Auto layout Form in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/802097c0-e21e-484e-8ba2-a3d98ca289b0-IMG_9718%202.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 826,
+    "introVideo": "https://vimeo.com/848741105",
+    "introLength": 24,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "auto layout text field",
+    "title": "Creating an Auto layout Text Field in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/00f62a34-da19-453e-9a2b-bae963c42cee-IMG_9728.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 1057,
+    "introVideo": "https://vimeo.com/848682017",
+    "introLength": 31,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "auto layout button",
+    "title": "Creating an Auto layout Button in Figma",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/6eeb92e2-24d0-4054-97a0-a10fbaecadf9-IMG_7594%20copy.JPG",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 812,
+    "introVideo": "https://vimeo.com/848381023",
+    "introLength": 25,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Absolute Position",
+    "title": "Learn Absolute Position with Autolayout Carousels in Figma ",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/52b44b71-344a-4da6-b657-b6004c508399-absolute%20%281%29.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 648,
+    "introVideo": "https://vimeo.com/846995054",
+    "introLength": 38,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "UX/UI CASE STUDY",
+    "title": "Presenting A UX/UI Case Study During Interview",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/3899c0e1-9c5f-44f4-b5c5-2c6cb27aa6ab-case-study%20%281%29.jpg",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 559,
+    "introVideo": "https://vimeo.com/846579957",
+    "introLength": 26,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "Intro to KPIs",
+    "title": "Introduction to Key Performance Indicators (KPIs) ",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/5a898ecd-6c05-4b6a-8e4d-648fcd55c99a-kpi%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 581,
+    "introVideo": "https://vimeo.com/846214453",
+    "introLength": 25,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Zander Whitehurst"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": "UX Metrics",
+    "title": "Introduction to UX Behavioural Metrics",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/9c41c425-ebb8-47f6-aecb-76992aa0cf22-z-metrics%20%281%29.jpg",
+    "difficulty": "intermediate",
+    "language": "english",
+    "length": 417,
+    "introVideo": "https://vimeo.com/845917221",
+    "introLength": 28,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  },
+  {
+    "tutor": {
+      "name": "Carolina Fernandes"
+    },
+    "softwareTool": {
+      "icon": "https://supafast-assets.s3.eu-central-1.amazonaws.com/63247bc3f835891939c1ebd5_figma_background.png",
+      "title": "Figma"
+    },
+    "keyword": " min & max width",
+    "title": "Understanding Auto Layout Min & Max Width Values",
+    "thumbnail": "https://supafast-assets.s3.eu-central-1.amazonaws.com/7dc665aa-38a6-4aa2-aa74-0094b78a442e-IMG_9304%202%20copy.JPG",
+    "difficulty": "easy",
+    "language": "english",
+    "length": 360,
+    "introVideo": "https://vimeo.com/845362624",
+    "introLength": 18,
+    "publishedAt": "2023-07-11T10:00:00.000Z"
+  }
+]
